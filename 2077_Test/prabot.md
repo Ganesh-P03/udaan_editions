@@ -1,13 +1,15 @@
 ---
-title: "Why Prabhat is every human’s best friend!"
-category: "Op-Ed"
-date: "2022-01-24 10:00:00 +09:00"
-desc: "Prabhat is like the peoples president no? like how Dr Kalam was the people president everyones best friend Prabhat is ACCURATE.. This masterpiece was AI generated and will also appear on top of the article"
-thumbnail: "./images/prabot.jpg"
-authors: "Debeshee and Deepmind"
+abio: NONE
+authors: Debeshee and Deepmind
+alt: prabot__text_if_images_fail_to_load
+thumbnail: ./images/prabot.jpg
+date: 2022-01-24 10:00:00 +09:00
+desc: Prabhat is like the peoples president no? like how Dr Kalam was the people
+  president everyones best friend Prabhat is ACCURATE.. This masterpiece was AI
+  generated and will also appear on top of the article
+title: Why Prabhat is every human’s best friend!!
+category: Op-Ed
 starred: "false"
-abio: "NONE"
-alt: "prabot__text_if_images_fail_to_load"
 ---
 
 ![prabot](./images/prabot.jpg)
